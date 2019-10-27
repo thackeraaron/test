@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("9")'
+CMD python -c 'print("hi docker")'
  
