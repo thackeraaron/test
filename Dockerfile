@@ -1,1 +1,2 @@
-From nginx:latest
+From python:latest
+CMD python -c 'print("hi")'
