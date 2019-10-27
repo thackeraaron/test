@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("7")'
+CMD python -c 'print("8")'
  
