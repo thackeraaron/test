@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("1234")'
+CMD python -c 'print("5678")'
  
