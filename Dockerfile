@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("new")'
+CMD python -c 'print("hi")'
  
