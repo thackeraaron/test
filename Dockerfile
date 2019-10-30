@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("hiwdadwadocker")'
+CMD python -c 'print("wasd")'
  
