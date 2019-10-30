@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("dwa")'
+CMD python -c 'print("new")'
  
