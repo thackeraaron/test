@@ -1,3 +1,3 @@
 From python:latest
-CMD python -c 'print("hi")'
+CMD python -c 'import time;time.sleep(2);print("hi")'
  
